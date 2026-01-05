@@ -6,3 +6,5 @@ Buat hotfix tanpa ganggu working tree utama:
 git worktree add ../proj-fix fix/login
 ```
 Folder baru, branch beda, share .git yang sama.
+
+> tambahan: kerjain — 05 Jan
