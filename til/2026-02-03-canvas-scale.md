@@ -6,3 +6,5 @@
 // catatan cepat
 const x = arr.at(-1)
 ```
+
+> tambahan: refactor — 03 Feb
