@@ -6,3 +6,13 @@ Next 15+: `searchParams` itu Promise — `await` di page.
 // dipakai di project
 export const cn = (...c) => c.filter(Boolean).join(' ')
 ```
+# searchParams promise
+
+Next 15+: `searchParams` itu Promise — `await` di page.
+
+```
+// catatan cepat
+const x = arr.at(-1)
+```
+
+> update 3
