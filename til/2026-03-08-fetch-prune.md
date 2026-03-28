@@ -6,3 +6,5 @@ Bersihin remote-tracking branch yang udah dihapus di server.
 // dipakai di project
 export const cn = (...c) => c.filter(Boolean).join(' ')
 ```
+
+> tambahan: kerjain — 28 Mar
