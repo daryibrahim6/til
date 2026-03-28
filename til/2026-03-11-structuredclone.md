@@ -7,3 +7,5 @@ Deep clone native — nested object aman, beda dari spread.
 ```
 
 > tambahan: refactor — 23 Mar
+
+> tambahan: riset — 28 Mar
