@@ -7,3 +7,5 @@ Bersihin remote-tracking branch yang udah dihapus di server.
 ```
 
 > tambahan: tune — 04 Apr
+
+> tambahan: polish — 04 Apr
