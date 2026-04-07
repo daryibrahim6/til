@@ -5,3 +5,5 @@
 ```css
 .component { min-width: 0; }
 ```
+
+> tambahan: kerjain — 07 Apr
