@@ -6,3 +6,13 @@ Transformer attach ke node lama pas re-render — re-attach tiap render list.
 // dipakai di project
 export const cn = (...c) => c.filter(Boolean).join(' ')
 ```
+# Konva transformer stale node
+
+Transformer attach ke node lama pas re-render — re-attach tiap render list.
+
+```
+// catatan cepat
+const x = arr.at(-1)
+```
+
+> update 3
