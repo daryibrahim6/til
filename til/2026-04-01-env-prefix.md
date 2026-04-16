@@ -7,3 +7,5 @@ GET /api/orders -> 401 tanpa kredensial
 ```
 
 > tambahan: fix — 08 Apr
+
+> tambahan: polish — 16 Apr
