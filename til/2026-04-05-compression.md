@@ -8,3 +8,5 @@ const x = arr.at(-1)
 ```
 
 > tambahan: benerin — 15 Apr
+
+> tambahan: kerjain — 18 Apr
