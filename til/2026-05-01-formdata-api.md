@@ -1,0 +1,3 @@
+# request.formData() di route handler
+
+Upload file di App Router: `await request.formData()` langsung — gak perlu multer/busboy. File jadi Web File API object.
