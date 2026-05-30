@@ -6,3 +6,5 @@ Next 15+: `searchParams` itu Promise — `await` di page.
 // dipakai di project
 export const cn = (...c) => c.filter(Boolean).join(' ')
 ```
+
+> tambahan: kerjain — 30 May
