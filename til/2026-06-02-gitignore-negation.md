@@ -1,0 +1,7 @@
+# .gitignore negation
+
+`*.log` lalu `!keep.log` — exception butuh parent dir yang tidak ke-ignore.
+
+```
+GET /api/orders -> 401 tanpa kredensial
+```
