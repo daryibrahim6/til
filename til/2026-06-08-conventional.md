@@ -7,3 +7,5 @@
 ```
 
 > tambahan: fix — 11 Jun
+
+> tambahan: refactor — 14 Jun
