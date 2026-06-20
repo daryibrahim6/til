@@ -6,3 +6,5 @@ Catch render error subtree — fallback UI daripada halaman putih.
 // dipakai di project
 export const cn = (...c) => c.filter(Boolean).join(' ')
 ```
+
+> tambahan: tambah — 20 Jun
