@@ -14,3 +14,5 @@ GET /api/orders -> 401 tanpa kredensial
 ```
 
 > update 6
+
+> tambahan: fix — 20 Jun
