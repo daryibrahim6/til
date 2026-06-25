@@ -8,3 +8,5 @@ const x = arr.at(-1)
 ```
 
 > tambahan: polish — 14 Jun
+
+> tambahan: kerjain — 25 Jun
