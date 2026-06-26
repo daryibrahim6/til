@@ -9,3 +9,5 @@ Next 15+: `searchParams` itu Promise — `await` di page.
 > tambahan: riset — 20 Jun
 
 > tambahan: fix — 26 Jun
+
+> tambahan: tune — 26 Jun
