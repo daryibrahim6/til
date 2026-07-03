@@ -1,0 +1,7 @@
+# NEXT_PUBLIC_ env
+
+Prefix = bundle ke client — SECRET jangan pernah pake prefix ini.
+
+```
+GET /api/orders -> 401 tanpa kredensial
+```
