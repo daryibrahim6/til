@@ -7,3 +7,5 @@ GET /api/orders -> 401 tanpa kredensial
 ```
 
 > tambahan: tambah — 08 Jul
+
+> tambahan: refactor — 13 Jul
