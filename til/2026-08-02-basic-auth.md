@@ -6,3 +6,5 @@
 // catatan cepat
 const x = arr.at(-1)
 ```
+
+> tambahan: kerjain — 05 Aug
