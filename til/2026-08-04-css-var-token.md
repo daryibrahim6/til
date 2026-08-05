@@ -6,3 +6,5 @@
 // dipakai di project
 export const cn = (...c) => c.filter(Boolean).join(' ')
 ```
+
+> tambahan: tambah — 05 Aug
