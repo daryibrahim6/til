@@ -8,3 +8,5 @@ export const cn = (...c) => c.filter(Boolean).join(' ')
 ```
 
 > tambahan: tambah — 05 Aug
+
+> tambahan: kerjain — 11 Aug
