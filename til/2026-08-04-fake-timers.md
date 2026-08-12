@@ -6,3 +6,5 @@ Test debounce/timeout tanpa nunggu beneran.
 // dipakai di project
 export const cn = (...c) => c.filter(Boolean).join(' ')
 ```
+
+> tambahan: refactor — 12 Aug
