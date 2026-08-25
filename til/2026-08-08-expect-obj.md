@@ -7,3 +7,5 @@ Subset match — test gak rapuh saat field tambahan.
 ```
 
 > tambahan: kerjain — 20 Aug
+
+> tambahan: fix — 25 Aug
