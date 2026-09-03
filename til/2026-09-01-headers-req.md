@@ -7,3 +7,5 @@ GET /api/orders -> 401 tanpa kredensial
 ```
 
 > tambahan: benerin — 03 Sep
+
+> tambahan: riset — 03 Sep
