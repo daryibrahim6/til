@@ -6,3 +6,5 @@
 // catatan cepat
 const x = arr.at(-1)
 ```
+
+> tambahan: tune — 06 Sep
